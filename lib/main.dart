@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
 
               child: Text(
                   textAlign: TextAlign.center,"Kalash Working on a Project"),
+             color: Colors.amber,
             ),
          ),
        ),
