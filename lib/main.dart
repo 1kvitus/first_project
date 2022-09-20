@@ -14,7 +14,10 @@ class MyApp extends StatelessWidget {
        home: Material(
          child: Center(
            child: Container(
-              child: Text("Kalash Working on a Project"),
+
+              child: Text(
+                  textAlign: TextAlign.center,"Kalash Working on a Project"),
+             color: Colors.amber,
             ),
          ),
        ),
